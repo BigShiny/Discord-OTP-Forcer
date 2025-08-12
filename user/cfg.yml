@@ -10,14 +10,14 @@
 # THE AUTHORS AND CONTRIBUTORS OF THIS PROGRAM ARE NOT RESPONSIBLE FOR WHATEVER DAMAGES MAY ENSUE
 
 # Basic login info
-email: ""
-password: ""
+email: "harryrobertson2008@outlook.com"
+password: "1Harryjohn"
 
 # Program mode configuration
 # Lets you skip the initial mode prompt stage by filling in your desired
 # programMode and codeMode beforehand.
-programMode: ""
-codeMode: ""
+programMode: "programMode:"login""
+codeMode: "codeMode:"backup""
 
 # Password Reset Info
 #
@@ -39,4 +39,4 @@ sensitiveDebug: "True"
 logCreation: "False"
 
 # Input which browser you're using, valid options include "chrome" and "chromium".
-browser: ""
+browser: "chrome"
